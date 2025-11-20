@@ -1,0 +1,5 @@
+{
+  "name": "Vitre Cleaning Manager",
+  "description": "A mobile-friendly workflow tool for hotel glass-cleaning teams to track room status, manage tasks, and generate daily reports.",
+  "requestFramePermissions": []
+}
